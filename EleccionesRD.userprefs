@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="EleccionesRD\EleccionesRD.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.Nexus 4 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EleccionesRD\Properties\AssemblyInfo.cs">
+    <Files>
+      <File FileName="EleccionesRD\MainActivity.cs" Line="24" Column="63" />
+      <File FileName="EleccionesRD\Properties\AssemblyInfo.cs" Line="33" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EleccionesRD AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

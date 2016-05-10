@@ -1,0 +1,12 @@
+C:\Users\MCano_000\Documents\Projects\EleccionesRD\EleccionesRD\obj\Debug\assemblies\EleccionesRD.dll
+C:\Users\MCano_000\Documents\Projects\EleccionesRD\EleccionesRD\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\MCano_000\Documents\Projects\EleccionesRD\EleccionesRD\obj\Debug\assemblies\mscorlib.dll
+C:\Users\MCano_000\Documents\Projects\EleccionesRD\EleccionesRD\obj\Debug\assemblies\System.Core.dll
+C:\Users\MCano_000\Documents\Projects\EleccionesRD\EleccionesRD\obj\Debug\assemblies\System.dll
+C:\Users\MCano_000\Documents\Projects\EleccionesRD\EleccionesRD\obj\Debug\assemblies\System.Web.Services.dll
+C:\Users\MCano_000\Documents\Projects\EleccionesRD\EleccionesRD\obj\Debug\assemblies\System.Xml.dll
+C:\Users\MCano_000\Documents\Projects\EleccionesRD\EleccionesRD\obj\Debug\assemblies\Xamarin.Android.Support.v13.dll
+C:\Users\MCano_000\Documents\Projects\EleccionesRD\EleccionesRD\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\MCano_000\Documents\Projects\EleccionesRD\EleccionesRD\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\MCano_000\Documents\Projects\EleccionesRD\EleccionesRD\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\MCano_000\Documents\Projects\EleccionesRD\EleccionesRD\obj\Debug\assemblies\System.ServiceModel.Internals.dll
